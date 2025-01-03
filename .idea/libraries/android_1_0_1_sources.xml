@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-1.0.1-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/com/renogy/rdpsdk/android/1.0.1/android-1.0.1-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

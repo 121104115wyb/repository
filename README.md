@@ -2,6 +2,14 @@
 
 [[How To Use](https://github.com/121104115wyb/RdpDemo/wiki)] 
 
+### version 1.0.4
+* Add CTRL and DCC version parameter
+* Optimized the display of parameter names
+
+### version 1.0.2
+* The DCC SDK has been supports four devices, DCC CTRL BAT INVERTER
+* Optimized the display of parameter names
+
 ### version 1.0.1 
 * The DCC SDK has been developed
 * Optimized the display of parameter names
